@@ -7,5 +7,5 @@ docker run --rm -it ml-container:1.0.0
 
 
 Docker Hub
-docker tag ml-container:1.0.0 sallyalaa013/ml-container:1.0.0
-docker push sallyalaa013/ml-container:1.0.0
+docker tag ml-container:1.0.0 sallyalaa1/ml-container:1.0.0
+docker push sallyalaa1/ml-container:1.0.0
